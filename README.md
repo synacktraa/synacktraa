@@ -1,23 +1,23 @@
 <div align="center">
 <a href="https://github.com/synacktraa">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Harsh+Verma;Machine Learning(LLM)+Engineer;Security+Researcher+%7C+Backend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?&color=F79E1E&font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Harsh+Verma;Machine Learning(LLM)+Engineer;Security+Researcher+%7C+Backend+Developer" alt="Typing SVG" />
 </a>
 <br/>
 
 <a href="https://www.linkedin.com/in/synacktra/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin">
 </a>
 <a href="mailto:synacktra.work@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-mail-black?style=flat-square&logo=gmail&logoColor=white">
 </a>
 <a href="https://pypi.org/user/synacktra/">
-    <img src="https://img.shields.io/badge/PyPi-synacktra-blue?style=flat-square&logo=pypi&logoColor=white">
+    <img src="https://img.shields.io/badge/PyPi-synacktra-black?style=flat-square&logo=pypi&logoColor=white">
 </a>
 
 <br/> 
 
 <a href="https://github.com/synacktraa">
-    <img src="https://github-stats-alpha.vercel.app/api?username=synacktraa&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=synacktraa&cc=000000&tc=F79E1E&ic=fff&bc=0000">
 </a>
 </div>
 
