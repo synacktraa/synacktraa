@@ -36,6 +36,9 @@
 
 ### 🖥️ Python Packages
 
+#### [Swiftrank](https://github.com/synacktraa/swiftrank)  
+<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/swiftrank?style=flat-square&labelColor=black"/>  [![SwiftrankPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/swiftrank) [![SwiftrankDownloads](https://static.pepy.tech/personalized-badge/swiftrank?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/swiftrank)
+
 #### [Hypertion](https://github.com/synacktraa/hypertion)  
 <img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/hypertion?style=flat-square&labelColor=black"/>  [![HypertionPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/hypertion) [![HypertionDownloads](https://static.pepy.tech/personalized-badge/hypertion?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/hypertion)
 
