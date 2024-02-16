@@ -36,6 +36,12 @@
 
 ### 🖥️ Python Packages
 
+#### [IntelliFS](https://github.com/synacktraa/intellifs)  
+<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/intellifs?style=flat-square&labelColor=black"/>  [![SwiftrankPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/intellifs) [![SwiftrankDownloads](https://static.pepy.tech/personalized-badge/intellifs?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/intellifs)
+
+#### [MiniFZF](https://github.com/synacktraa/minifzf)  
+<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/minifzf?style=flat-square&labelColor=black"/>  [![SwiftrankPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/minifzf) [![SwiftrankDownloads](https://static.pepy.tech/personalized-badge/minifzf?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/minifzf)
+
 #### [Swiftrank](https://github.com/synacktraa/swiftrank)  
 <img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/swiftrank?style=flat-square&labelColor=black"/>  [![SwiftrankPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/swiftrank) [![SwiftrankDownloads](https://static.pepy.tech/personalized-badge/swiftrank?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/swiftrank)
 
