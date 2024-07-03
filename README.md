@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/synacktraa">
-    <img src="https://readme-typing-svg.demolab.com?&color=F79E1E&font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Harsh+Verma;Machine Learning(LLM)+Engineer;Security+Researcher+%7C+Backend+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?&color=F79E1E&font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Harsh+Verma;LLMOps+%7C+Backend+Developer+%7C+Security+Researcher" alt="Typing SVG" />
 </a>
 <br/>
 
