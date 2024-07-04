@@ -21,18 +21,7 @@
 </a>
 </div>
 
-### About Me 🤗
-
-- Passionate about Back End development, I bring expertise in SQLAlchemy & PostgresQL, REST API (FastAPI), Authentication Mechanism, Caching (Redis), Docker, Message Brokers (RabbitMQ and Kafka), and Automation.
-
-- In the realm of LLMOps, I'm well-versed in LLMs, Quantization (GGML, GPTQ, GGUF, AWQ), Fine-Tuning (PeFT, LoRA, QLoRA), VectorStores (Chroma, FAISS, Qdrant), Text-Embeddings (Instruct, BGE), Inferencing (HuggingFace pipeline, vLLM Engine), Prompt Engineering, Agents, Chains, and Custom Tools (Web scraper, document loaders, Headless browsing).
-
-- My proficiency extends to Web Application Penetration Testing (WAPT), covering BurpSuite, Reconnaissance, XSS, CSRF, SSRF, Session Related Issues, Business Logic issues, IDOR, Privilege Escalation, and Subdomain Takeover.
-
-- With a solid foundation in Blockchain technologies (Ethereum, Solidity, Gas, Gwei, Wei, Proof of Work, Proof of Stake), I am equipped to navigate the complexities of the blockchain space.
-
-- Complementing these technical skills are competencies in Linux, advanced shell scripting, basic Data Structures & Algorithms, Cryptography, Networks, Git, and a familiarity with the Dark/Deep Web.
-
+Learning ML/DL at a steady pace while keeping up with the latest research and advancements.
 
 ### 🖥️ Python Packages
 
