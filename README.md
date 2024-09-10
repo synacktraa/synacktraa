@@ -25,6 +25,9 @@ Learning ML/DL at a steady pace while keeping up with the latest research and ad
 
 ### 🖥️ Python Packages
 
+#### [Tool-Parse](https://github.com/synacktraa/tool-parse)  
+<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/tool-parse?style=flat-square&labelColor=black"/>  [![Tool-ParsePyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/tool-parse) [![Tool-ParseDownloads](https://static.pepy.tech/personalized-badge/tool-parse?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/tool-parse)
+
 #### [IntelliFS](https://github.com/synacktraa/intellifs)  
 <img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/intellifs?style=flat-square&labelColor=black"/>  [![SwiftrankPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/intellifs) [![SwiftrankDownloads](https://static.pepy.tech/personalized-badge/intellifs?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/intellifs)
 
@@ -33,9 +36,6 @@ Learning ML/DL at a steady pace while keeping up with the latest research and ad
 
 #### [Swiftrank](https://github.com/synacktraa/swiftrank)  
 <img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/swiftrank?style=flat-square&labelColor=black"/>  [![SwiftrankPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/swiftrank) [![SwiftrankDownloads](https://static.pepy.tech/personalized-badge/swiftrank?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/swiftrank)
-
-#### [Hypertion](https://github.com/synacktraa/hypertion)  
-<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/hypertion?style=flat-square&labelColor=black"/>  [![HypertionPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/hypertion) [![HypertionDownloads](https://static.pepy.tech/personalized-badge/hypertion?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/hypertion)
 
 #### [Urify](https://github.com/synacktraa/urify)  
 <img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/urify?style=flat-square&labelColor=black"/>  [![UrifyPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/urify) [![UrifyDownloads](https://static.pepy.tech/personalized-badge/urify?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/urify)
