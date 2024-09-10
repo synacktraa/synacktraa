@@ -21,21 +21,14 @@
 </a>
 </div>
 
-Learning ML/DL at a steady pace while keeping up with the latest research and advancements.
+Creating dev-friendly AI tools while geeking out on RAG, Agents, Finetuning, and LLMOps.
 
-### 🖥️ Python Packages
+## 🛠️ Python Packages
 
-#### [Tool-Parse](https://github.com/synacktraa/tool-parse)  
-<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/tool-parse?style=flat-square&labelColor=black"/>  [![Tool-ParsePyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/tool-parse) [![Tool-ParseDownloads](https://static.pepy.tech/personalized-badge/tool-parse?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/tool-parse)
-
-#### [IntelliFS](https://github.com/synacktraa/intellifs)  
-<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/intellifs?style=flat-square&labelColor=black"/>  [![SwiftrankPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/intellifs) [![SwiftrankDownloads](https://static.pepy.tech/personalized-badge/intellifs?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/intellifs)
-
-#### [MiniFZF](https://github.com/synacktraa/minifzf)  
-<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/minifzf?style=flat-square&labelColor=black"/>  [![SwiftrankPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/minifzf) [![SwiftrankDownloads](https://static.pepy.tech/personalized-badge/minifzf?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/minifzf)
-
-#### [Swiftrank](https://github.com/synacktraa/swiftrank)  
-<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/swiftrank?style=flat-square&labelColor=black"/>  [![SwiftrankPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/swiftrank) [![SwiftrankDownloads](https://static.pepy.tech/personalized-badge/swiftrank?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/swiftrank)
-
-#### [Urify](https://github.com/synacktraa/urify)  
-<img alt="Stars" src="https://img.shields.io/github/stars/synacktraa/urify?style=flat-square&labelColor=black"/>  [![UrifyPyPi](https://img.shields.io/badge/PyPi-black?style=flat-square&logo=pypi)](https://pypi.org/project/urify) [![UrifyDownloads](https://static.pepy.tech/personalized-badge/urify?period=total&units=international_system&left_color=black&right_color=red&left_text=Downloads)](https://pepy.tech/project/urify)
+| Package | Stars | PyPI | Downloads |
+|---------|-------|------|-----------|
+| [tool-parse](https://github.com/synacktraa/tool-parse) | ![Stars](https://img.shields.io/github/stars/synacktraa/tool-parse?style=flat-square&labelColor=343b41) | [![PyPI](https://img.shields.io/badge/PyPi-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/tool-parse) | [![Downloads](https://static.pepy.tech/personalized-badge/tool-parse?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/tool-parse) |
+| [intellifs](https://github.com/synacktraa/intellifs) | ![Stars](https://img.shields.io/github/stars/synacktraa/intellifs?style=flat-square&labelColor=343b41) | [![PyPI](https://img.shields.io/badge/PyPi-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/intellifs) | [![Downloads](https://static.pepy.tech/personalized-badge/intellifs?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/intellifs) |
+| [minifzf](https://github.com/synacktraa/minifzf) | ![Stars](https://img.shields.io/github/stars/synacktraa/minifzf?style=flat-square&labelColor=343b41) | [![PyPI](https://img.shields.io/badge/PyPi-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/minifzf) | [![Downloads](https://static.pepy.tech/personalized-badge/minifzf?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/minifzf) |
+| [swiftrank](https://github.com/synacktraa/swiftrank) | ![Stars](https://img.shields.io/github/stars/synacktraa/swiftrank?style=flat-square&labelColor=343b41) | [![PyPI](https://img.shields.io/badge/PyPi-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/swiftrank) | [![Downloads](https://static.pepy.tech/personalized-badge/swiftrank?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/swiftrank) |
+| [urify](https://github.com/synacktraa/urify) | ![Stars](https://img.shields.io/github/stars/synacktraa/urify?style=flat-square&labelColor=343b41) | [![PyPI](https://img.shields.io/badge/PyPi-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/urify) | [![Downloads](https://static.pepy.tech/personalized-badge/urify?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://pepy.tech/project/urify) |
