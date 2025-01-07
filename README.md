@@ -24,7 +24,7 @@
 Creating dev-friendly AI tools while geeking out on RAG, Agents, Finetuning, and LLMOps.
 
 Currently Learning:
- - College Algebra - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-k-pmQV3XwM78Ttn88wfNRSPIreZ-bfM?usp=sharing) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/i7vOAcUo5iA)
+ - Foundational Mathematics - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-k-pmQV3XwM78Ttn88wfNRSPIreZ-bfM?usp=sharing) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/i7vOAcUo5iA)
  - Data Structures & Algorithms - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLKYEe2WisBTFEr6laH5bR2J19j7sl5O8R)
 
 ## 🛠️ Python Packages
