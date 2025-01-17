@@ -1,8 +1,6 @@
 <div align="center">
-<a href="https://github.com/synacktraa">
-    <img src="https://readme-typing-svg.demolab.com?&color=F79E1E&font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Harsh+Verma;LLMOps+%7C+Backend+Engineer" alt="Typing SVG" />
-</a>
-<br/>
+<img src="./hybrid_intelligence.jfif">
+
 
 Creating dev-friendly tools and libraries to simplify working with AI agents.
 
