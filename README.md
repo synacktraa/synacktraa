@@ -6,9 +6,6 @@
 
 Creating dev-friendly tools and libraries to simplify working with AI agents.
 
-<a href="https://gitroll.io/profile/uGAOeP0Kwk1ZAJN1wGYNl1ZdjbGm2" target="_blank">
-    <img src="https://gitroll.io/api/badges/profiles/v1/uGAOeP0Kwk1ZAJN1wGYNl1ZdjbGm2?theme=sepia" width=400px alt="GitRoll Profile Badge"/>
-</a>
 <br/>
 <a href="https://github.com/synacktraa">
     <img src="https://github-stats-alpha.vercel.app/api?username=synacktraa&cc=000000&tc=F79E1E&ic=fff&bc=0000" width=550px>
